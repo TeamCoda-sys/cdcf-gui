@@ -45,7 +45,7 @@ Installez PyQt5 : `python -m pip install PyQt5`
 
 Clone du Project : `git clone https://github.com/TeamCoda-sys/cdcf-gui.git`
 
-Ouverture : `python3 Main.py
+Ouverture : `python3 Main.py`
 
 ***
 
