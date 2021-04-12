@@ -49,5 +49,5 @@ Ouverture : `python3 Main.py
 
 ***
 
-TeamCoda 2021
-CDCF Foundation
+- TeamCoda 2021
+- CDCF Foundation
