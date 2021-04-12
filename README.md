@@ -12,7 +12,7 @@ Installez PIP : `sudo apt install python3-pip`
 
 Installez PyQt5 : `pip install PyQt5`
 
-Clone du Project : `git clone `
+Clone du Project : `git clone https://github.com/TeamCoda-sys/cdcf-gui.git`
 
 Ouverture : `python3 Main.py`
 
@@ -28,7 +28,7 @@ Avoir PIP : `curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py`
 
 PIP de PyQt5 : `pip install PyQt5`
 
-Clone du Project : `git clone `
+Clone du Project : `git clone https://github.com/TeamCoda-sys/cdcf-gui.git`
 
 Ouverture : `python3 Main.py`
 
@@ -43,7 +43,7 @@ Installez Git : `https://github.com/git-for-windows/git/releases/download/v2.31.
 
 Installez PyQt5 : `python -m pip install PyQt5`
 
-Clone du Project : `git clone `
+Clone du Project : `git clone https://github.com/TeamCoda-sys/cdcf-gui.git`
 
 Ouverture : `python3 Main.py
 
